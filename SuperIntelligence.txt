@@ -1,4 +1,4 @@
-Superintelligence:
+	Superintelligence:
 Myth or Pressing
 Reality?
 
@@ -13,7 +13,9 @@ endows technologa with “superintelligence.”
 Some warn that superintelligence
 will furpass humin
 intelligenca within the next quarter
-centur/y. 
+century.
+
+/*A lot of scientists say that it is very hard to make a advancing artifical intelligence. So we shouldn't worry about it.  */ 
 
 This sparks fears that
 mankind could become the unwitting
