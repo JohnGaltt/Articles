@@ -39,6 +39,8 @@ dintelligent than those who program
 their precisely designed functions.
 >>>>>>> comment1article2
 
+/* Why they named it Prometheus ? Maybe because fire is the worst enemy for the tree? :D */
+
 The tree's name refers to the mythological figure Prometheus, who stole fire from the gods and gave it to man. The designation WPN-114 was given by the original researcher, Donald Rusk Currey, and means it was the 114th tree he sampled in his research in Nevada's White Pine County.
 
 
