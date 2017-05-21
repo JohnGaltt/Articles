@@ -50,6 +50,7 @@ intelligent than those who program
 their precisely designed functions.
 
 
+/* Of course no, I think that machines can do only some specific functions. It means that humans always have an advantage of the machines. */
 
 Rather, robotic precision is greater.
 Industrial robots thrive on repetition
