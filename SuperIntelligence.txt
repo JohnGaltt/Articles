@@ -40,7 +40,11 @@ intelligent automation will reduce
 the need for human labor. Robots
 have already transfigured manufacturing,
 replacing many workers
-in the process. This trend toward
+in the process. 
+
+//Robots are for lazy people:)
+
+This trend toward
 increased efficiency in repetitive,
 just-in-time tasks on the manufacturing
 floor is liable to continue
