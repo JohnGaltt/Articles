@@ -69,4 +69,5 @@ of recent actions necessary to
 inform future actions.
 
 
+/* Very interesting article, but as wise people said: "Successful creation of artificial intelligence will be the greatest event in the history of mankind"*/
 
